@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python, Java, C# y muchos más**
 
-- 🔄️ Licenciado en Tecnologías de la información [(en proceso)]((en proceso))
+- 🔄️ Licenciado en Tecnologías de la información [(en proceso)]
 
 - ✅ Técnico en Programación web [(finalizada)]((finalizada))
 
